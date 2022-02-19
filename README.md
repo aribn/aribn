@@ -4,7 +4,7 @@ I'm Ari Bader-Natal. You can read a bit [about me](https://aribadernatal.com), [
 
 ### Work 
 
-🔭 I’m co-founder and CTO at [Sparkwise](https://sparkwise.co), and am currently searching for a [Founding Engineer](https://sparkwise.notion.site/Build-the-Future-of-Learning-with-Us-9828f73e135d4676a4c02f1483886f0e) for our team.  
+I'm co-founder and CTO at [Sparkwise](https://sparkwise.co), and am currently seeking a [Founding Engineer](https://sparkwise.notion.site/Build-the-Future-of-Learning-with-Us-9828f73e135d4676a4c02f1483886f0e) for our team.  
 
 ### Contact me
 
