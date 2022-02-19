@@ -9,7 +9,7 @@ jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - uses: aribn/rss-to-readme@v1
+      - uses: aribn/rss-to-readme
         with:
           feed-url: https://favorites.aribadernatal.com/feed/
           readme-section: feed
