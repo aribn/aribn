@@ -1,16 +1,15 @@
-name: Update this repo's README
+name: aribn
 
 on:
   schedule:
     # Once a day at 8 AM
     - cron: '5 * * * *'
 
-
 jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - uses: aribn/rss-to-readme@v2.0.0
+      - uses: aribn/rss-to-readme@v1
         with:
           feed-url: https://favorites.aribadernatal.com/feed/
           readme-section: feed
