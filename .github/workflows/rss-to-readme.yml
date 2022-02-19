@@ -1,14 +1,16 @@
-name: aribn
+name: rss-to-readme
 
 on:
   schedule:
     - cron: '36 * * * *'
-
+  push: 
+    branches:
+      - main
 jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - uses: aribn/rss-to-readme@main
+      - uses: actions/rss-to-readme@v1
         with:
           feed-url: https://favorites.aribadernatal.com/feed/
           readme-section: feed
