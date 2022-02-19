@@ -16,3 +16,5 @@ jobs:
           feed-url: https://favorites.aribadernatal.com/feed/
           readme-section: feed
           branch: main
+          template: "* [{{ title }}]({{ link }}))"
+          max: 10
