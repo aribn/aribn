@@ -2,8 +2,7 @@ name: aribn
 
 on:
   schedule:
-    # Once a day at 8 AM
-    - cron: '5 * * * *'
+    - cron: '36 * * * *'
 
 jobs:
   update:
