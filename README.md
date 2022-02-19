@@ -12,7 +12,7 @@ I'm co-founder and CTO at [Sparkwise](https://sparkwise.co), and am currently se
 - Twitter: [@aribadernatal](https://twitter.com/aribadernatal)
 - LinkedIn: [aribadernatal](https://linkedin.com/in/aribadernatal)
 
-### Things that caught my attention
+### Recent [favorites](https://favorites.aribadernatal.com) around the web
 
 <!--START_SECTION:feed-->
 ...
