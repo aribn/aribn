@@ -21,3 +21,4 @@ I'm co-founder and CTO at [Sparkwise](https://sparkwise.co), and am currently se
 * [Favorited tweet by juliastiglitz](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;twitter-favorites&#x2F;2022&#x2F;02&#x2F;favorited-tweet-by-juliastiglitz-2&#x2F;)
 * [aribn starred soheilpro&#x2F;mailwind](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;github-favorites&#x2F;2022&#x2F;02&#x2F;aribn-starred-soheilpro-mailwind&#x2F;)
 <!--END_SECTION:feed-->
+* [View more...](https://favorites.aribadernatal.com)
