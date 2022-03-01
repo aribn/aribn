@@ -15,6 +15,7 @@ I'm co-founder and CTO at [Sparkwise](https://sparkwise.co), and am currently se
 ### Recent [favorites](https://favorites.aribadernatal.com) around the web
 
 <!--START_SECTION:feed-->
+* [Why did renewables become so cheap so fast?](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;pocket-favorites&#x2F;2022&#x2F;02&#x2F;why-did-renewables-become-so-cheap-so-fast&#x2F;)
 * [aribn starred mhart&#x2F;aws4fetch](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;github-favorites&#x2F;2022&#x2F;02&#x2F;aribn-starred-mhart-aws4fetch&#x2F;)
 * [Favorited tweet by whitneykilgore](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;twitter-favorites&#x2F;2022&#x2F;02&#x2F;favorited-tweet-by-whitneykilgore&#x2F;)
 * [Block reference mechanisms](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;pocket-favorites&#x2F;2022&#x2F;02&#x2F;block-reference-mechanisms&#x2F;)
@@ -22,6 +23,5 @@ I'm co-founder and CTO at [Sparkwise](https://sparkwise.co), and am currently se
 * [aribn starred liveblocks&#x2F;liveblocks](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;github-favorites&#x2F;2022&#x2F;02&#x2F;aribn-starred-liveblocks-liveblocks&#x2F;)
 * [Favorited tweet by geoffreylitt](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;twitter-favorites&#x2F;2022&#x2F;02&#x2F;favorited-tweet-by-geoffreylitt&#x2F;)
 * [aribn starred JasonEtco&#x2F;rss-to-readme](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;github-favorites&#x2F;2022&#x2F;02&#x2F;aribn-starred-jasonetco-rss-to-readme&#x2F;)
-* [aribn starred subhendukundu&#x2F;worker-auth-providers](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;github-favorites&#x2F;2022&#x2F;02&#x2F;aribn-starred-subhendukundu-worker-auth-providers&#x2F;)
 <!--END_SECTION:feed-->
 * [View more...](https://favorites.aribadernatal.com)
