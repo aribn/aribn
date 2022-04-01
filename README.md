@@ -15,6 +15,7 @@ I'm co-founder and CTO at [Sparkwise](https://sparkwise.co), and am currently se
 ### Recent [favorites](https://favorites.aribadernatal.com) around the web
 
 <!--START_SECTION:feed-->
+* [An Unusual Way to Charge for College: Make It Voluntary](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;pocket-favorites&#x2F;2022&#x2F;03&#x2F;an-unusual-way-to-charge-for-college-make-it-voluntary&#x2F;)
 * [Favorited tweet by transcendnet](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;twitter-favorites&#x2F;2022&#x2F;03&#x2F;favorited-tweet-by-transcendnet-2&#x2F;)
 * [aribn starred PacktPublishing&#x2F;Rapid-Product-Development-with-n8n](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;github-favorites&#x2F;2022&#x2F;03&#x2F;aribn-starred-packtpublishing-rapid-product-development-with-n8n&#x2F;)
 * [How to Grow The Startup Economy](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;pocket-favorites&#x2F;2022&#x2F;03&#x2F;how-to-grow-the-startup-economy&#x2F;)
@@ -22,6 +23,5 @@ I'm co-founder and CTO at [Sparkwise](https://sparkwise.co), and am currently se
 * [Programmable Notes](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;pocket-favorites&#x2F;2022&#x2F;03&#x2F;programmable-notes&#x2F;)
 * [Do we owe our careers to our country?](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;pocket-favorites&#x2F;2022&#x2F;03&#x2F;do-we-owe-our-careers-to-our-country&#x2F;)
 * [Announcing the new Sustainable Use License](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;pocket-favorites&#x2F;2022&#x2F;03&#x2F;announcing-the-new-sustainable-use-license&#x2F;)
-* [Amjad Masad ⠕](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;pocket-favorites&#x2F;2022&#x2F;03&#x2F;amjad-masad-%e2%a0%95&#x2F;)
 <!--END_SECTION:feed-->
 * [View more...](https://favorites.aribadernatal.com)
