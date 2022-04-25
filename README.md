@@ -1,18 +1,18 @@
-### Hi there 👋
+# Hi there  👋
 
 I'm Ari Bader-Natal. You can read a bit [about me](https://aribadernatal.com), [my current work](https://aribadernatal.com/projects/Sparkwise/), [past projects](https://aribadernatal.com/projects/), [publication and patents](https://aribadernatal.com/publications), and more at [aribadernatal.com](https://aribadernatal.com).
 
-### Work 👨‍💻
+## Work  👨‍💻
 
 I'm co-founder and CTO at [Sparkwise](https://sparkwise.co). Our B2B platform automates McKinsey-style people development with Miro-like collaborative SaaS. Participants learn by solving problems live in teams.
 
-### Contact me 💬 
+## Contact me  💬 
 
 - Email: ari@aribadernatal.com
 - Twitter: [@aribadernatal](https://twitter.com/aribadernatal)
 - LinkedIn: [aribadernatal](https://linkedin.com/in/aribadernatal)
 
-### Recent [favorites](https://favorites.aribadernatal.com) around the web 🔖
+## Recent saves  👍
 
 <!--START_SECTION:feed-->
 * [aribn starred rajgoel&#x2F;reveal.js-plugins](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;github-favorites&#x2F;2022&#x2F;04&#x2F;aribn-starred-rajgoel-reveal-js-plugins&#x2F;)
@@ -24,4 +24,4 @@ I'm co-founder and CTO at [Sparkwise](https://sparkwise.co). Our B2B platform au
 * [Essential Learning Outcomes](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;pocket-favorites&#x2F;2022&#x2F;04&#x2F;essential-learning-outcomes&#x2F;)
 * [Autologlyphs](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;pocket-favorites&#x2F;2022&#x2F;04&#x2F;autologlyphs&#x2F;)
 <!--END_SECTION:feed-->
-* [View more...](https://favorites.aribadernatal.com)
+* [Thousands more at favorites.aribadernatal.com](https://favorites.aribadernatal.com)
