@@ -8,9 +8,8 @@ I'm co-founder and CTO at [Sparkwise](https://sparkwise.co). Our B2B platform au
 
 ## Contact me  💬 
 
-- Email: ari@aribadernatal.com
-- Twitter: [@aribadernatal](https://twitter.com/aribadernatal)
 - LinkedIn: [aribadernatal](https://linkedin.com/in/aribadernatal)
+- Twitter: [@aribadernatal](https://twitter.com/aribadernatal)
 - Web: [aribadernatal.com](https://aribadernatal.com)
 
 ## Recent saves  👍
