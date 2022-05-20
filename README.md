@@ -15,6 +15,7 @@ I'm co-founder and CTO at [Sparkwise](https://sparkwise.co). Our B2B platform au
 ## Recent saves  👍
 
 <!--START_SECTION:feed-->
+* [aribn starred samtecspg&#x2F;articulate](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;github-favorites&#x2F;2022&#x2F;05&#x2F;aribn-starred-samtecspg-articulate&#x2F;)
 * [Favorited tweet by NotionHQ](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;twitter-favorites&#x2F;2022&#x2F;05&#x2F;favorited-tweet-by-notionhq&#x2F;)
 * [Andy Matuschak on physically-informed digital interface design](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;pocket-favorites&#x2F;2022&#x2F;05&#x2F;andy-matuschak-on-physically-informed-digital-interface-design&#x2F;)
 * [WinterCG](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;pocket-favorites&#x2F;2022&#x2F;05&#x2F;wintercg&#x2F;)
@@ -22,6 +23,5 @@ I'm co-founder and CTO at [Sparkwise](https://sparkwise.co). Our B2B platform au
 * [Primer: The Ambitious Home for Ambitious Kids](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;pocket-favorites&#x2F;2022&#x2F;04&#x2F;primer-the-ambitious-home-for-ambitious-kids&#x2F;)
 * [aribn starred davish&#x2F;obsidian-full-calendar](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;github-favorites&#x2F;2022&#x2F;04&#x2F;aribn-starred-davish-obsidian-full-calendar&#x2F;)
 * [aribn starred rajgoel&#x2F;reveal.js-plugins](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;github-favorites&#x2F;2022&#x2F;04&#x2F;aribn-starred-rajgoel-reveal-js-plugins&#x2F;)
-* [Learning Engineering: A View on Where the Field Is at, Where It’s Going, and the Research Needed](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;pocket-favorites&#x2F;2022&#x2F;04&#x2F;learning-engineering-a-view-on-where-the-field-is-at-where-its-going-and-the-research-needed&#x2F;)
 <!--END_SECTION:feed-->
 * [Thousands more at favorites.aribadernatal.com](https://favorites.aribadernatal.com)
