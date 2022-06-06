@@ -4,7 +4,7 @@ I'm Ari Bader-Natal. You can read a bit [about me](https://aribadernatal.com), [
 
 ## Work  👨‍💻
 
-I'm co-founder and CTO at [Sparkwise](https://sparkwise.co). Our B2B platform automates McKinsey-style people development with Miro-like collaborative SaaS. Participants learn by solving problems live in teams.
+I'm co-founder and CTO at [Sparkwise](https://sparkwise.co). Our mission is to make impactful skill-building accessible to all professionals.
 
 ## Contact me  💬 
 
