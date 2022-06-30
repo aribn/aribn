@@ -15,13 +15,13 @@ I'm co-founder and CTO at [Sparkwise](https://sparkwise.co). Our mission is to m
 ## Recent saves  👍
 
 <!--START_SECTION:feed-->
+* [The edtech top 50 — emerging companies for workforce development](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;pocket-favorites&#x2F;2022&#x2F;06&#x2F;the-edtech-top-50-emerging-companies-for-workforce-development&#x2F;)
+* [Create Your Own Mathematical Mystery Box](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;pocket-favorites&#x2F;2022&#x2F;06&#x2F;create-your-own-mathematical-mystery-box&#x2F;)
 * [Natural Magic](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;pocket-favorites&#x2F;2022&#x2F;06&#x2F;natural-magic&#x2F;)
 * [aribn starred TwilioDevEd&#x2F;video-superclass-feb-22](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;github-favorites&#x2F;2022&#x2F;06&#x2F;aribn-starred-twiliodeved-video-superclass-feb-22&#x2F;)
 * [aribn starred twilio&#x2F;rtc-diagnostics](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;github-favorites&#x2F;2022&#x2F;06&#x2F;aribn-starred-twilio-rtc-diagnostics&#x2F;)
 * [Stack Overflow Developer Survey 2022](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;pocket-favorites&#x2F;2022&#x2F;06&#x2F;stack-overflow-developer-survey-2022&#x2F;)
 * [‘It’s Not About the Evidence Anymore’](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;pocket-favorites&#x2F;2022&#x2F;06&#x2F;its-not-about-the-evidence-anymore&#x2F;)
 * [aribn starred lukeed&#x2F;worktop](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;github-favorites&#x2F;2022&#x2F;06&#x2F;aribn-starred-lukeed-worktop&#x2F;)
-* [aribn starred cloudflare&#x2F;templates](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;github-favorites&#x2F;2022&#x2F;06&#x2F;aribn-starred-cloudflare-templates&#x2F;)
-* [aribn starred excalidraw&#x2F;excalidraw-room](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;github-favorites&#x2F;2022&#x2F;06&#x2F;aribn-starred-excalidraw-excalidraw-room&#x2F;)
 <!--END_SECTION:feed-->
 * [Thousands more at favorites.aribadernatal.com](https://favorites.aribadernatal.com)
