@@ -15,6 +15,7 @@ I'm co-founder and CTO at [Sparkwise](https://sparkwise.co). Our mission is to m
 ## Recent saves  👍
 
 <!--START_SECTION:feed-->
+* [21. Prototyping to learn](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;pocket-favorites&#x2F;2022&#x2F;07&#x2F;21-prototyping-to-learn&#x2F;)
 * [What kind of company do you want to build?](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;pocket-favorites&#x2F;2022&#x2F;07&#x2F;what-kind-of-company-do-you-want-to-build&#x2F;)
 * [What we learned in studying the most effective founders](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;pocket-favorites&#x2F;2022&#x2F;07&#x2F;what-we-learned-in-studying-the-most-effective-founders&#x2F;)
 * [Calbright Concludes California Budget Cycle Fully Funded, Moving Toward Achieving Strategic Goals](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;pocket-favorites&#x2F;2022&#x2F;06&#x2F;calbright-concludes-california-budget-cycle-fully-funded-moving-toward-achieving-strategic-goals&#x2F;)
@@ -22,6 +23,5 @@ I'm co-founder and CTO at [Sparkwise](https://sparkwise.co). Our mission is to m
 * [The edtech top 50 — emerging companies for workforce development](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;pocket-favorites&#x2F;2022&#x2F;06&#x2F;the-edtech-top-50-emerging-companies-for-workforce-development&#x2F;)
 * [Create Your Own Mathematical Mystery Box](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;pocket-favorites&#x2F;2022&#x2F;06&#x2F;create-your-own-mathematical-mystery-box&#x2F;)
 * [Natural Magic](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;pocket-favorites&#x2F;2022&#x2F;06&#x2F;natural-magic&#x2F;)
-* [aribn starred TwilioDevEd&#x2F;video-superclass-feb-22](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;github-favorites&#x2F;2022&#x2F;06&#x2F;aribn-starred-twiliodeved-video-superclass-feb-22&#x2F;)
 <!--END_SECTION:feed-->
 * [Thousands more at favorites.aribadernatal.com](https://favorites.aribadernatal.com)
