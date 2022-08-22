@@ -15,13 +15,13 @@ I'm co-founder and CTO at [Sparkwise](https://sparkwise.co). Our mission is to m
 ## Recent saves  👍
 
 <!--START_SECTION:feed-->
+* [aribn starred clayh53&#x2F;tufte-jekyll](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;github-favorites&#x2F;2022&#x2F;08&#x2F;aribn-starred-clayh53-tufte-jekyll&#x2F;)
+* [Have your most inspiring thoughts on top of your mind. Reflect on them in just the right frequency.](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;pocket-favorites&#x2F;2022&#x2F;08&#x2F;have-your-most-inspiring-thoughts-on-top-of-your-mind-reflect-on-them-in-just-the-right-frequency&#x2F;)
+* [Sidenotes In Web Design · Gwern.net](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;pocket-favorites&#x2F;2022&#x2F;08&#x2F;sidenotes-in-web-design-%c2%b7-gwern-net&#x2F;)
+* [Other Orders](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;pocket-favorites&#x2F;2022&#x2F;08&#x2F;other-orders&#x2F;)
+* [New project! Nutshell: make expandable explanations](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;pocket-favorites&#x2F;2022&#x2F;08&#x2F;new-project-nutshell-make-expandable-explanations&#x2F;)
+* [aribn starred ncase&#x2F;nutshell](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;github-favorites&#x2F;2022&#x2F;08&#x2F;aribn-starred-ncase-nutshell&#x2F;)
 * [aribn starred subconsciousnetwork&#x2F;noosphere](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;github-favorites&#x2F;2022&#x2F;08&#x2F;aribn-starred-subconsciousnetwork-noosphere&#x2F;)
 * [Favorited tweet by Rainmaker1973](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;twitter-favorites&#x2F;2022&#x2F;08&#x2F;favorited-tweet-by-rainmaker1973&#x2F;)
-* [aribn starred benbjohnson&#x2F;litestream](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;github-favorites&#x2F;2022&#x2F;08&#x2F;aribn-starred-benbjohnson-litestream&#x2F;)
-* [Favorited tweet by albertoarenaza](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;twitter-favorites&#x2F;2022&#x2F;08&#x2F;favorited-tweet-by-albertoarenaza-5&#x2F;)
-* [Notes on Progress: Doing science backwards](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;pocket-favorites&#x2F;2022&#x2F;08&#x2F;notes-on-progress-doing-science-backwards&#x2F;)
-* [Workplace Learning: Still a Mess](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;pocket-favorites&#x2F;2022&#x2F;08&#x2F;workplace-learning-still-a-mess&#x2F;)
-* [Favorited tweet by albertoarenaza](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;twitter-favorites&#x2F;2022&#x2F;08&#x2F;favorited-tweet-by-albertoarenaza-4&#x2F;)
-* [aribn starred sagi&#x2F;workers-slack](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;github-favorites&#x2F;2022&#x2F;08&#x2F;aribn-starred-sagi-workers-slack&#x2F;)
 <!--END_SECTION:feed-->
 * [Thousands more at favorites.aribadernatal.com](https://favorites.aribadernatal.com)
