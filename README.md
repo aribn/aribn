@@ -15,13 +15,13 @@ I'm co-founder and CTO at [Sparkwise](https://sparkwise.co). Our mission is to m
 ## Recent saves  👍
 
 <!--START_SECTION:feed-->
+* [How Stripe builds interactive docs with Markdoc](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;pocket-favorites&#x2F;2022&#x2F;09&#x2F;how-stripe-builds-interactive-docs-with-markdoc&#x2F;)
+* [Butterick’s Practical Typography](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;pocket-favorites&#x2F;2022&#x2F;09&#x2F;buttericks-practical-typography&#x2F;)
+* [Favorited tweet by Rainmaker1973](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;twitter-favorites&#x2F;2022&#x2F;09&#x2F;favorited-tweet-by-rainmaker1973-2&#x2F;)
 * [History++ – A Better Way to Do Versioning](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;pocket-favorites&#x2F;2022&#x2F;09&#x2F;history-a-better-way-to-do-versioning&#x2F;)
 * [Favorited tweet by tylerangert](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;twitter-favorites&#x2F;2022&#x2F;09&#x2F;favorited-tweet-by-tylerangert&#x2F;)
 * [Favorited tweet by bytingtheapple](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;twitter-favorites&#x2F;2022&#x2F;09&#x2F;favorited-tweet-by-bytingtheapple&#x2F;)
 * [aribn starred microlinkhq&#x2F;cards](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;github-favorites&#x2F;2022&#x2F;09&#x2F;aribn-starred-microlinkhq-cards&#x2F;)
 * [aribn starred divamgupta&#x2F;diffusionbee-stable-diffusion-ui](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;github-favorites&#x2F;2022&#x2F;09&#x2F;aribn-starred-divamgupta-diffusionbee-stable-diffusion-ui&#x2F;)
-* [THE GAP by Ira Glass](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;pocket-favorites&#x2F;2022&#x2F;09&#x2F;the-gap-by-ira-glass&#x2F;)
-* [Search with Lunr.js](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;pocket-favorites&#x2F;2022&#x2F;09&#x2F;search-with-lunr-js&#x2F;)
-* [Favorited tweet by iwriterealgood](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;twitter-favorites&#x2F;2022&#x2F;08&#x2F;favorited-tweet-by-iwriterealgood-3&#x2F;)
 <!--END_SECTION:feed-->
 * [Thousands more at favorites.aribadernatal.com](https://favorites.aribadernatal.com)
