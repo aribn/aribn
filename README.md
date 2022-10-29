@@ -15,13 +15,13 @@ I'm co-founder and CTO at [Sparkwise](https://sparkwise.co). Our mission is to m
 ## Recent saves  👍
 
 <!--START_SECTION:feed-->
+* [Favorited tweet by houshuang](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;twitter-favorites&#x2F;2022&#x2F;10&#x2F;favorited-tweet-by-houshuang-10&#x2F;)
+* [Programming Portals](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;pocket-favorites&#x2F;2022&#x2F;10&#x2F;programming-portals&#x2F;)
+* [Imagine a notebook](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;pocket-favorites&#x2F;2022&#x2F;10&#x2F;imagine-a-notebook&#x2F;)
+* [Favorited tweet by timklapdor](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;twitter-favorites&#x2F;2022&#x2F;10&#x2F;favorited-tweet-by-timklapdor-4&#x2F;)
 * [aribn starred danielgross&#x2F;videobook](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;github-favorites&#x2F;2022&#x2F;10&#x2F;aribn-starred-danielgross-videobook&#x2F;)
 * [A Learning Design System](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;pocket-favorites&#x2F;2022&#x2F;10&#x2F;a-learning-design-system&#x2F;)
 * [aribn starred tholman&#x2F;obnoxious.css](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;github-favorites&#x2F;2022&#x2F;10&#x2F;aribn-starred-tholman-obnoxious-css&#x2F;)
 * [Favorited tweet by gordonbrander](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;twitter-favorites&#x2F;2022&#x2F;10&#x2F;favorited-tweet-by-gordonbrander&#x2F;)
-* [Favorited tweet by tylerangert](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;twitter-favorites&#x2F;2022&#x2F;10&#x2F;favorited-tweet-by-tylerangert-2&#x2F;)
-* [A Surge in Young Undergrads, Fully Online](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;pocket-favorites&#x2F;2022&#x2F;10&#x2F;a-surge-in-young-undergrads-fully-online&#x2F;)
-* [Timeful Texts](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;pocket-favorites&#x2F;2022&#x2F;10&#x2F;timeful-texts&#x2F;)
-* [Noosphere design principles](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;pocket-favorites&#x2F;2022&#x2F;10&#x2F;noosphere-design-principles&#x2F;)
 <!--END_SECTION:feed-->
 * [Thousands more at favorites.aribadernatal.com](https://favorites.aribadernatal.com)
