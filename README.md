@@ -15,13 +15,13 @@ I'm co-founder and CTO at [Sparkwise](https://sparkwise.co). Our mission is to m
 ## Recent saves  👍
 
 <!--START_SECTION:feed-->
+* [aribn starred diracdeltas&#x2F;tweets](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;github-favorites&#x2F;2022&#x2F;11&#x2F;aribn-starred-diracdeltas-tweets&#x2F;)
+* [aribn starred openblocks-dev&#x2F;openblocks](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;github-favorites&#x2F;2022&#x2F;11&#x2F;aribn-starred-openblocks-dev-openblocks&#x2F;)
+* [Hundreds said to have opted to leave Twitter over Musk ultimatum](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;pocket-favorites&#x2F;2022&#x2F;11&#x2F;hundreds-said-to-have-opted-to-leave-twitter-over-musk-ultimatum&#x2F;)
+* [Favorited tweet by josephmenn](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;twitter-favorites&#x2F;2022&#x2F;11&#x2F;favorited-tweet-by-josephmenn&#x2F;)
+* [Clarity, Confusion on ‘Regular and Substantive Interaction’](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;pocket-favorites&#x2F;2022&#x2F;11&#x2F;clarity-confusion-on-regular-and-substantive-interaction&#x2F;)
+* [What Do We Lose If We Lose Twitter?](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;pocket-favorites&#x2F;2022&#x2F;11&#x2F;what-do-we-lose-if-we-lose-twitter&#x2F;)
 * [Favorited tweet by andy_matuschak](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;twitter-favorites&#x2F;2022&#x2F;11&#x2F;favorited-tweet-by-andy_matuschak-15&#x2F;)
 * [Favorited tweet by ejames_c](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;twitter-favorites&#x2F;2022&#x2F;11&#x2F;favorited-tweet-by-ejames_c&#x2F;)
-* [Liked video “It’s here: the all-new Descript, + Series C investment (OpenAI Startup Fund)”](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;likes-on-youtube&#x2F;2022&#x2F;11&#x2F;liked-video-its-here-the-all-new-descript-series-c-investment-openai-startup-fund&#x2F;)
-* [aribn starred paperswithcode&#x2F;galai](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;github-favorites&#x2F;2022&#x2F;11&#x2F;aribn-starred-paperswithcode-galai&#x2F;)
-* [Favorited tweet by paperswithcode](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;twitter-favorites&#x2F;2022&#x2F;11&#x2F;favorited-tweet-by-paperswithcode&#x2F;)
-* [aribn starred erxes&#x2F;erxes](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;github-favorites&#x2F;2022&#x2F;11&#x2F;aribn-starred-erxes-erxes&#x2F;)
-* [Favorited tweet by mzinshteyn](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;twitter-favorites&#x2F;2022&#x2F;11&#x2F;favorited-tweet-by-mzinshteyn-6&#x2F;)
-* [Classic HCI Demos](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;pocket-favorites&#x2F;2022&#x2F;11&#x2F;classic-hci-demos&#x2F;)
 <!--END_SECTION:feed-->
 * [Thousands more at favorites.aribadernatal.com](https://favorites.aribadernatal.com)
