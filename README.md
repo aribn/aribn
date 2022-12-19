@@ -15,6 +15,7 @@ I'm co-founder and CTO at [Sparkwise](https://sparkwise.co). Our mission is to m
 ## Recent saves  👍
 
 <!--START_SECTION:feed-->
+* [The internet wants to be fragmented](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;pocket-favorites&#x2F;2022&#x2F;12&#x2F;the-internet-wants-to-be-fragmented&#x2F;)
 * [The Anatomy of an Amazon 6-pager](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;pocket-favorites&#x2F;2022&#x2F;12&#x2F;the-anatomy-of-an-amazon-6-pager&#x2F;)
 * [Becoming a chatbot: my life as a real estate AI’s human backup](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;pocket-favorites&#x2F;2022&#x2F;12&#x2F;becoming-a-chatbot-my-life-as-a-real-estate-ais-human-backup&#x2F;)
 * [Favorited tweet by houshuang](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;twitter-favorites&#x2F;2022&#x2F;12&#x2F;favorited-tweet-by-houshuang-11&#x2F;)
@@ -22,6 +23,5 @@ I'm co-founder and CTO at [Sparkwise](https://sparkwise.co). Our mission is to m
 * [About Dramatron](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;pocket-favorites&#x2F;2022&#x2F;12&#x2F;about-dramatron&#x2F;)
 * [Dramatron](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;pocket-favorites&#x2F;2022&#x2F;12&#x2F;dramatron&#x2F;)
 * [Artificial Limits](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;pocket-favorites&#x2F;2022&#x2F;12&#x2F;artificial-limits&#x2F;)
-* [The state of AI in 2022—and a half decade in review](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;pocket-favorites&#x2F;2022&#x2F;12&#x2F;the-state-of-ai-in-2022-and-a-half-decade-in-review&#x2F;)
 <!--END_SECTION:feed-->
 * [Thousands more at favorites.aribadernatal.com](https://favorites.aribadernatal.com)
