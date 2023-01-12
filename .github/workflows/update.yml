@@ -18,3 +18,4 @@ jobs:
           branch: main
           template: "* [{{ title }}]({{ link }})"
           max: 8
+          node-version: '16'
