@@ -15,6 +15,7 @@ I'm co-founder and CTO at [Sparkwise](https://sparkwise.co). Our mission is to m
 ## Recent saves  👍
 
 <!--START_SECTION:feed-->
+* [Scalability is overrated](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;pocket-favorites&#x2F;2023&#x2F;02&#x2F;scalability-is-overrated&#x2F;)
 * [Favorited tweet by MGreenePhD](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;twitter-favorites&#x2F;2023&#x2F;02&#x2F;favorited-tweet-by-mgreenephd-3&#x2F;)
 * [Favorited tweet by KentonVarda](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;twitter-favorites&#x2F;2023&#x2F;02&#x2F;favorited-tweet-by-kentonvarda&#x2F;)
 * [aribn starred cloudflare&#x2F;wildebeest](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;github-favorites&#x2F;2023&#x2F;02&#x2F;aribn-starred-cloudflare-wildebeest&#x2F;)
@@ -22,6 +23,5 @@ I'm co-founder and CTO at [Sparkwise](https://sparkwise.co). Our mission is to m
 * [Innovation in the Education Sciences (the new IES)](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;pocket-favorites&#x2F;2023&#x2F;02&#x2F;innovation-in-the-education-sciences-the-new-ies&#x2F;)
 * [☞ The Edges Cases Where Computing and Physics Intersect](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;pocket-favorites&#x2F;2023&#x2F;02&#x2F;%e2%98%9e-the-edges-cases-where-computing-and-physics-intersect&#x2F;)
 * [Favorited tweet by toolness](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;twitter-favorites&#x2F;2023&#x2F;02&#x2F;favorited-tweet-by-toolness&#x2F;)
-* [Bookmarked a tweet by gvwilson](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;mastodon-bookmarks&#x2F;2023&#x2F;02&#x2F;bookmarked-a-tweet-by-gvwilson-15&#x2F;)
 <!--END_SECTION:feed-->
 * [Thousands more at favorites.aribadernatal.com](https://favorites.aribadernatal.com)
