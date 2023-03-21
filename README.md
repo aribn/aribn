@@ -15,13 +15,13 @@ I'm co-founder and CTO at [Sparkwise](https://sparkwise.co). Our mission is to m
 ## Recent saves  👍
 
 <!--START_SECTION:feed-->
-* [GPT-4](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;pocket-favorites&#x2F;2023&#x2F;03&#x2F;gpt-4&#x2F;)
-* [aribn starred rschoch&#x2F;d3-editable-hillchart](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;github-favorites&#x2F;2023&#x2F;02&#x2F;aribn-starred-rschoch-d3-editable-hillchart&#x2F;)
-* [aribn starred plexus&#x2F;hillchart](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;github-favorites&#x2F;2023&#x2F;02&#x2F;aribn-starred-plexus-hillchart&#x2F;)
-* [Social Media is a Major Cause of the Mental Illness Epidemic in Teen Girls. Here’s the Evidence.](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;pocket-favorites&#x2F;2023&#x2F;02&#x2F;social-media-is-a-major-cause-of-the-mental-illness-epidemic-in-teen-girls-heres-the-evidence&#x2F;)
-* [California Community Colleges board selects new chancellor](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;pocket-favorites&#x2F;2023&#x2F;02&#x2F;california-community-colleges-board-selects-new-chancellor&#x2F;)
-* [The future, soon: what I learned from Bing’s AI](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;pocket-favorites&#x2F;2023&#x2F;02&#x2F;the-future-soon-what-i-learned-from-bings-ai&#x2F;)
-* [ChatGPT Is a Blurry JPEG of the Web](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;pocket-favorites&#x2F;2023&#x2F;02&#x2F;chatgpt-is-a-blurry-jpeg-of-the-web&#x2F;)
-* [Sandboxing JavaScript Code](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;pocket-favorites&#x2F;2023&#x2F;02&#x2F;sandboxing-javascript-code&#x2F;)
+* [Is LaMDA Sentient?](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;pocket-favorites&#x2F;2023&#x2F;03&#x2F;is-lamda-sentient&#x2F;)
+* [‘A Bankrupt Concept of Math’: Some Educators Argue Calculus Should Be Dethroned](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;pocket-favorites&#x2F;2023&#x2F;03&#x2F;a-bankrupt-concept-of-math-some-educators-argue-calculus-should-be-dethroned&#x2F;)
+* [The Fundamental Question of Edtech](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;pocket-favorites&#x2F;2023&#x2F;03&#x2F;the-fundamental-question-of-edtech&#x2F;)
+* [Supporting the next generation of learning technologies](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;pocket-favorites&#x2F;2023&#x2F;03&#x2F;supporting-the-next-generation-of-learning-technologies&#x2F;)
+* [Title:GPTs are GPTs: An Early Look at the Labor Market Impact Potential of Large Language Models](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;pocket-favorites&#x2F;2023&#x2F;03&#x2F;titlegpts-are-gpts-an-early-look-at-the-labor-market-impact-potential-of-large-language-models&#x2F;)
+* [Favorited tweet by geoffreylitt](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;twitter-favorites&#x2F;2023&#x2F;03&#x2F;favorited-tweet-by-geoffreylitt-2&#x2F;)
+* [Find a fulfilling career that does good](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;pocket-favorites&#x2F;2023&#x2F;03&#x2F;find-a-fulfilling-career-that-does-good&#x2F;)
+* [The Rise of the Silicon Valley Small Business](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;pocket-favorites&#x2F;2023&#x2F;03&#x2F;the-rise-of-the-silicon-valley-small-business&#x2F;)
 <!--END_SECTION:feed-->
 * [Thousands more at favorites.aribadernatal.com](https://favorites.aribadernatal.com)
