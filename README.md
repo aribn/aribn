@@ -15,13 +15,13 @@ I'm co-founder and CTO at [Sparkwise](https://sparkwise.co). Our mission is to m
 ## Recent saves  👍
 
 <!--START_SECTION:feed-->
+* [How to use AI to do practical stuff: A new guide](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;pocket-favorites&#x2F;2023&#x2F;04&#x2F;how-to-use-ai-to-do-practical-stuff-a-new-guide&#x2F;)
+* [The Age of AI has begun](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;pocket-favorites&#x2F;2023&#x2F;04&#x2F;the-age-of-ai-has-begun&#x2F;)
+* [aribn starred hwchase17&#x2F;langchain](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;github-favorites&#x2F;2023&#x2F;04&#x2F;aribn-starred-hwchase17-langchain&#x2F;)
 * [aribn starred PrefectHQ&#x2F;marvin](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;github-favorites&#x2F;2023&#x2F;03&#x2F;aribn-starred-prefecthq-marvin&#x2F;)
 * [ChatGPT + Code Interpreter &#x3D; Magic](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;pocket-favorites&#x2F;2023&#x2F;03&#x2F;chatgpt-code-interpreter-magic&#x2F;)
 * [Is LaMDA Sentient?](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;pocket-favorites&#x2F;2023&#x2F;03&#x2F;is-lamda-sentient&#x2F;)
 * [‘A Bankrupt Concept of Math’: Some Educators Argue Calculus Should Be Dethroned](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;pocket-favorites&#x2F;2023&#x2F;03&#x2F;a-bankrupt-concept-of-math-some-educators-argue-calculus-should-be-dethroned&#x2F;)
 * [The Fundamental Question of Edtech](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;pocket-favorites&#x2F;2023&#x2F;03&#x2F;the-fundamental-question-of-edtech&#x2F;)
-* [Supporting the next generation of learning technologies](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;pocket-favorites&#x2F;2023&#x2F;03&#x2F;supporting-the-next-generation-of-learning-technologies&#x2F;)
-* [Title:GPTs are GPTs: An Early Look at the Labor Market Impact Potential of Large Language Models](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;pocket-favorites&#x2F;2023&#x2F;03&#x2F;titlegpts-are-gpts-an-early-look-at-the-labor-market-impact-potential-of-large-language-models&#x2F;)
-* [Favorited tweet by geoffreylitt](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;twitter-favorites&#x2F;2023&#x2F;03&#x2F;favorited-tweet-by-geoffreylitt-2&#x2F;)
 <!--END_SECTION:feed-->
 * [Thousands more at favorites.aribadernatal.com](https://favorites.aribadernatal.com)
