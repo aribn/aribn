@@ -15,13 +15,13 @@ I'm co-founder and CTO at [Sparkwise](https://sparkwise.co). Our mission is to m
 ## Recent saves  👍
 
 <!--START_SECTION:feed-->
+* [aribn starred michael&#x2F;editable-website](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;github-favorites&#x2F;2023&#x2F;04&#x2F;aribn-starred-michael-editable-website&#x2F;)
+* [In Conversation with Chris Dede: The Role of Classic AI and Generative AI in EdTech and Workforce Development](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;pocket-favorites&#x2F;2023&#x2F;04&#x2F;in-conversation-with-chris-dede-the-role-of-classic-ai-and-generative-ai-in-edtech-and-workforce-development&#x2F;)
+* [aribn starred dair-ai&#x2F;Prompt-Engineering-Guide](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;github-favorites&#x2F;2023&#x2F;04&#x2F;aribn-starred-dair-ai-prompt-engineering-guide&#x2F;)
+* [window.ai](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;pocket-favorites&#x2F;2023&#x2F;04&#x2F;window-ai&#x2F;)
+* [Favorited tweet by xanderatallah](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;twitter-favorites&#x2F;2023&#x2F;04&#x2F;favorited-tweet-by-xanderatallah&#x2F;)
+* [aribn starred mckaywrigley&#x2F;chatbot-ui](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;github-favorites&#x2F;2023&#x2F;04&#x2F;aribn-starred-mckaywrigley-chatbot-ui&#x2F;)
 * [GPT-4 Is a Reasoning Engine](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;pocket-favorites&#x2F;2023&#x2F;04&#x2F;gpt-4-is-a-reasoning-engine&#x2F;)
 * [Darklang is going all-in on AI](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;pocket-favorites&#x2F;2023&#x2F;04&#x2F;darklang-is-going-all-in-on-ai&#x2F;)
-* [How to use AI to do practical stuff: A new guide](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;pocket-favorites&#x2F;2023&#x2F;04&#x2F;how-to-use-ai-to-do-practical-stuff-a-new-guide&#x2F;)
-* [The Age of AI has begun](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;pocket-favorites&#x2F;2023&#x2F;04&#x2F;the-age-of-ai-has-begun&#x2F;)
-* [aribn starred hwchase17&#x2F;langchain](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;github-favorites&#x2F;2023&#x2F;04&#x2F;aribn-starred-hwchase17-langchain&#x2F;)
-* [aribn starred PrefectHQ&#x2F;marvin](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;github-favorites&#x2F;2023&#x2F;03&#x2F;aribn-starred-prefecthq-marvin&#x2F;)
-* [ChatGPT + Code Interpreter &#x3D; Magic](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;pocket-favorites&#x2F;2023&#x2F;03&#x2F;chatgpt-code-interpreter-magic&#x2F;)
-* [Is LaMDA Sentient?](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;pocket-favorites&#x2F;2023&#x2F;03&#x2F;is-lamda-sentient&#x2F;)
 <!--END_SECTION:feed-->
 * [Thousands more at favorites.aribadernatal.com](https://favorites.aribadernatal.com)
