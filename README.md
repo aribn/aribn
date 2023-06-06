@@ -15,13 +15,13 @@ I'm co-founder and CTO at [Sparkwise](https://sparkwise.co). Our mission is to m
 ## Recent saves  👍
 
 <!--START_SECTION:feed-->
+* [aribn starred PostHog&#x2F;posthog](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;github-favorites&#x2F;2023&#x2F;06&#x2F;aribn-starred-posthog-posthog&#x2F;)
+* [StyleDrop: Text-To-Image Generation in Any Style](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;pocket-favorites&#x2F;2023&#x2F;06&#x2F;styledrop-text-to-image-generation-in-any-style&#x2F;)
+* [Experiential Learning for Emerging and Novel Technologies (ExLENT)](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;pocket-favorites&#x2F;2023&#x2F;06&#x2F;experiential-learning-for-emerging-and-novel-technologies-exlent&#x2F;)
 * [Liked video “Communal computing for 21st century science, Apr 2023”](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;likes-on-youtube&#x2F;2023&#x2F;06&#x2F;liked-video-communal-computing-for-21st-century-science-apr-2023&#x2F;)
 * [aribn starred kochrt&#x2F;qr-designer](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;github-favorites&#x2F;2023&#x2F;06&#x2F;aribn-starred-kochrt-qr-designer&#x2F;)
 * [Asana’s 5 guiding principles for human-centered AI](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;pocket-favorites&#x2F;2023&#x2F;06&#x2F;asanas-5-guiding-principles-for-human-centered-ai&#x2F;)
 * [Voyager: An Open-Ended Embodied Agent with Large Language Models](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;pocket-favorites&#x2F;2023&#x2F;06&#x2F;voyager-an-open-ended-embodied-agent-with-large-language-models&#x2F;)
 * [Courseau](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;pocket-favorites&#x2F;2023&#x2F;06&#x2F;courseau&#x2F;)
-* [aribn starred tinyplex&#x2F;tinybase](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;github-favorites&#x2F;2023&#x2F;06&#x2F;aribn-starred-tinyplex-tinybase&#x2F;)
-* [Finding the levers to create transformational learning solutions](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;pocket-favorites&#x2F;2023&#x2F;06&#x2F;finding-the-levers-to-create-transformational-learning-solutions&#x2F;)
-* [Migrating from Supabase](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;pocket-favorites&#x2F;2023&#x2F;05&#x2F;migrating-from-supabase&#x2F;)
 <!--END_SECTION:feed-->
 * [Thousands more at favorites.aribadernatal.com](https://favorites.aribadernatal.com)
