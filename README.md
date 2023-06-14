@@ -15,6 +15,7 @@ I'm co-founder and CTO at [Sparkwise](https://sparkwise.co). Our mission is to m
 ## Recent saves  👍
 
 <!--START_SECTION:feed-->
+* [Assigning AI: Seven Approaches for Students, with Prompts](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;pocket-favorites&#x2F;2023&#x2F;06&#x2F;assigning-ai-seven-approaches-for-students-with-prompts&#x2F;)
 * [A Map of AI for Education](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;pocket-favorites&#x2F;2023&#x2F;06&#x2F;a-map-of-ai-for-education&#x2F;)
 * [AI Assistant · Cloudflare Workers docs](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;pocket-favorites&#x2F;2023&#x2F;06&#x2F;ai-assistant-%c2%b7-cloudflare-workers-docs&#x2F;)
 * [aribn starred PostHog&#x2F;posthog](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;github-favorites&#x2F;2023&#x2F;06&#x2F;aribn-starred-posthog-posthog&#x2F;)
@@ -22,6 +23,5 @@ I'm co-founder and CTO at [Sparkwise](https://sparkwise.co). Our mission is to m
 * [Experiential Learning for Emerging and Novel Technologies (ExLENT)](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;pocket-favorites&#x2F;2023&#x2F;06&#x2F;experiential-learning-for-emerging-and-novel-technologies-exlent&#x2F;)
 * [Liked video “Communal computing for 21st century science, Apr 2023”](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;likes-on-youtube&#x2F;2023&#x2F;06&#x2F;liked-video-communal-computing-for-21st-century-science-apr-2023&#x2F;)
 * [aribn starred kochrt&#x2F;qr-designer](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;github-favorites&#x2F;2023&#x2F;06&#x2F;aribn-starred-kochrt-qr-designer&#x2F;)
-* [Asana’s 5 guiding principles for human-centered AI](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;pocket-favorites&#x2F;2023&#x2F;06&#x2F;asanas-5-guiding-principles-for-human-centered-ai&#x2F;)
 <!--END_SECTION:feed-->
 * [Thousands more at favorites.aribadernatal.com](https://favorites.aribadernatal.com)
