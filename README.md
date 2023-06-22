@@ -15,7 +15,10 @@ I'm co-founder and CTO at [Sparkwise](https://sparkwise.co). Our mission is to m
 ## Recent saves  👍
 
 <!--START_SECTION:feed-->
+* [aribn starred Sh4yy&#x2F;cloudflare-email](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;github-favorites&#x2F;2023&#x2F;06&#x2F;aribn-starred-sh4yy-cloudflare-email&#x2F;)
+* [aribn starred withastro&#x2F;astro](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;github-favorites&#x2F;2023&#x2F;06&#x2F;aribn-starred-withastro-astro&#x2F;)
 * [You Have to Pay Attention](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;pocket-favorites&#x2F;2023&#x2F;06&#x2F;you-have-to-pay-attention&#x2F;)
+* [CMU Team Wins * [You Have to Pay Attention](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;pocket-favorites&#x2F;2023&#x2F;06&#x2F;you-have-to-pay-attention&#x2F;)
 * [CMU Team Wins * [You Have to Pay Attention](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;pocket-favorites&#x2F;2023&#x2F;06&#x2F;you-have-to-pay-attention&#x2F;)
 * [CMU Team Wins * [JavaScript is not available.](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;pocket-favorites&#x2F;2023&#x2F;06&#x2F;javascript-is-not-available&#x2F;)
 * [Assigning AI: Seven Approaches for Students, with Prompts](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;pocket-favorites&#x2F;2023&#x2F;06&#x2F;assigning-ai-seven-approaches-for-students-with-prompts&#x2F;)
@@ -36,6 +39,10 @@ I'm co-founder and CTO at [Sparkwise](https://sparkwise.co). Our mission is to m
 * [Tiptap Collab](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;pocket-favorites&#x2F;2023&#x2F;06&#x2F;tiptap-collab&#x2F;)
 * [JupyterLab 4.0 is Here](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;pocket-favorites&#x2F;2023&#x2F;06&#x2F;jupyterlab-4-0-is-here&#x2F;)
 * [Documenting Decisions in a Remote Team](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;pocket-favorites&#x2F;2023&#x2F;06&#x2F;documenting-decisions-in-a-remote-team&#x2F;)
-* [aribn starred hasparus&#x2F;novel](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;github-favorites&#x2F;2023&#x2F;06&#x2F;aribn-starred-hasparus-novel&#x2F;)
+* [aribn starred hasparus&#x2F;novel](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;github-favorites&#x2F;2023&#x2F;06&#x2F;aribn-starred-hasparus-novel&#x2F;)M XPRIZE Digital Learning Challenge](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;pocket-favorites&#x2F;2023&#x2F;06&#x2F;cmu-team-wins-1m-xprize-digital-learning-challenge&#x2F;)
+* [Jobs for the Future Launches New Center for Artificial Intelligence &amp; the Future of Work](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;pocket-favorites&#x2F;2023&#x2F;06&#x2F;jobs-for-the-future-launches-new-center-for-artificial-intelligence-the-future-of-work&#x2F;)
+* [Self-healing code is the future of software development](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;pocket-favorites&#x2F;2023&#x2F;06&#x2F;self-healing-code-is-the-future-of-software-development&#x2F;)
+* [Tiptap Collab](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;pocket-favorites&#x2F;2023&#x2F;06&#x2F;tiptap-collab&#x2F;)
+* [JupyterLab 4.0 is Here](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;pocket-favorites&#x2F;2023&#x2F;06&#x2F;jupyterlab-4-0-is-here&#x2F;)
 <!--END_SECTION:feed-->
 * [Thousands more at favorites.aribadernatal.com](https://favorites.aribadernatal.com)
