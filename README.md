@@ -15,7 +15,13 @@ I'm co-founder and CTO at [Sparkwise](https://sparkwise.co). Our mission is to m
 ## Recent saves  👍
 
 <!--START_SECTION:feed-->
+* [Sacramento; an illustrated history: 1839 to 1874, from Sutter’s Fort to Capital City](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;pocket-favorites&#x2F;2023&#x2F;06&#x2F;sacramento-an-illustrated-history-1839-to-1874-from-sutters-fort-to-capital-city&#x2F;)
 * [The Places Most Affected by Remote Workers’ Moves Around the Country](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;pocket-favorites&#x2F;2023&#x2F;06&#x2F;the-places-most-affected-by-remote-workers-moves-around-the-country&#x2F;)
+* [Time for Class 2023](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;pocket-favorites&#x2F;2023&#x2F;06&#x2F;time-for-class-2023&#x2F;)
+* [aribn starred Sh4yy&#x2F;cloudflare-email](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;github-favorites&#x2F;2023&#x2F;06&#x2F;aribn-starred-sh4yy-cloudflare-email&#x2F;)
+* [aribn starred withastro&#x2F;astro](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;github-favorites&#x2F;2023&#x2F;06&#x2F;aribn-starred-withastro-astro&#x2F;)
+* [You Have to Pay Attention](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;pocket-favorites&#x2F;2023&#x2F;06&#x2F;you-have-to-pay-attention&#x2F;)
+* [CMU Team Wins * [The Places Most Affected by Remote Workers’ Moves Around the Country](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;pocket-favorites&#x2F;2023&#x2F;06&#x2F;the-places-most-affected-by-remote-workers-moves-around-the-country&#x2F;)
 * [Time for Class 2023](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;pocket-favorites&#x2F;2023&#x2F;06&#x2F;time-for-class-2023&#x2F;)
 * [aribn starred Sh4yy&#x2F;cloudflare-email](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;github-favorites&#x2F;2023&#x2F;06&#x2F;aribn-starred-sh4yy-cloudflare-email&#x2F;)
 * [aribn starred withastro&#x2F;astro](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;github-favorites&#x2F;2023&#x2F;06&#x2F;aribn-starred-withastro-astro&#x2F;)
@@ -71,6 +77,7 @@ I'm co-founder and CTO at [Sparkwise](https://sparkwise.co). Our mission is to m
 * [Jobs for the Future Launches New Center for Artificial Intelligence &amp; the Future of Work](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;pocket-favorites&#x2F;2023&#x2F;06&#x2F;jobs-for-the-future-launches-new-center-for-artificial-intelligence-the-future-of-work&#x2F;)
 * [Self-healing code is the future of software development](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;pocket-favorites&#x2F;2023&#x2F;06&#x2F;self-healing-code-is-the-future-of-software-development&#x2F;)M XPRIZE Digital Learning Challenge](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;pocket-favorites&#x2F;2023&#x2F;06&#x2F;cmu-team-wins-1m-xprize-digital-learning-challenge&#x2F;)
 * [Jobs for the Future Launches New Center for Artificial Intelligence &amp; the Future of Work](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;pocket-favorites&#x2F;2023&#x2F;06&#x2F;jobs-for-the-future-launches-new-center-for-artificial-intelligence-the-future-of-work&#x2F;)
-* [Self-healing code is the future of software development](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;pocket-favorites&#x2F;2023&#x2F;06&#x2F;self-healing-code-is-the-future-of-software-development&#x2F;)
+* [Self-healing code is the future of software development](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;pocket-favorites&#x2F;2023&#x2F;06&#x2F;self-healing-code-is-the-future-of-software-development&#x2F;)M XPRIZE Digital Learning Challenge](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;pocket-favorites&#x2F;2023&#x2F;06&#x2F;cmu-team-wins-1m-xprize-digital-learning-challenge&#x2F;)
+* [Jobs for the Future Launches New Center for Artificial Intelligence &amp; the Future of Work](https:&#x2F;&#x2F;favorites.aribadernatal.com&#x2F;pocket-favorites&#x2F;2023&#x2F;06&#x2F;jobs-for-the-future-launches-new-center-for-artificial-intelligence-the-future-of-work&#x2F;)
 <!--END_SECTION:feed-->
 * [Thousands more at favorites.aribadernatal.com](https://favorites.aribadernatal.com)
